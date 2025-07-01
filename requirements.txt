@@ -1,8 +1,5 @@
-MAKE YOU HAVE THE FOLLOWING INSTALLED
-
-
-
+# Make sure you have the following installed
 streamlit
 plotly
-seasborn
+seaborn
 matplotlib
