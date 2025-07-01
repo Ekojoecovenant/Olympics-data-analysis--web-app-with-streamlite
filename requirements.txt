@@ -1,5 +1,5 @@
 MAKE YOU HAVE THE FOLLOWING INSTALLED
-E.G pip install streamlit...
+
 
 
 streamlit
